@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "type":  "module",
   "description": "",
-  "main": "index.js",
+  "main": "app.js.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lakshay Kalra",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
